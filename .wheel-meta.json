@@ -1,0 +1,22 @@
+{
+  "wheel_id": 854,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-109",
+  "project": "home-loan-broker-gold-coast-quotes-explained-7f6bcd28f4cede2da4",
+  "parent_t1_ref": "homeloanbrokergoldcoast-153",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast quotes explained",
+  "intended_url": "http://home-loan-broker-gold-coast-quotes-explained-7f6bcd28f4cede2da4.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "0363f0b7b6d0fda7",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/home-loan-broker-gold-coast-myths-c30d2c8b1ab1e55836a95a538be46/",
+      "anchor": "this home loan broker gold coast myths resource",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
